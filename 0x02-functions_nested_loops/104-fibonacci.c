@@ -16,7 +16,7 @@ void printFibonacciNumbers(int n)
 	printf("%d, ", f1);
 	printf("%d, ", f2);
 
-	for (i = 1; i <= n; i++)
+	for (i = 1; i <= n; ++i)
 	{
 		printf("%d, ", next);
 
@@ -32,7 +32,7 @@ void printFibonacciNumbers(int n)
 * Return: Always 0 (Success)
 */
 
-int main()
+int main(void)
 {
 	printFibonacciNumbers(98);
 
