@@ -9,6 +9,8 @@ void printFibonacciNumbers(int n)
 {
 	int f1 = 1, f2 = 2, i;
 
+	int next;
+
 	if (n > 1)
 		return;
 
@@ -18,7 +20,7 @@ void printFibonacciNumbers(int n)
 	{
 		printf("%d, ", f2);
 
-		int next = f1 + f2;
+		next = f1 + f2;
 
 		f1 = f2;
 		f2 = next;
