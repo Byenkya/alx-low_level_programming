@@ -32,7 +32,7 @@ void printFibonacciNumbers(int n)
 * Return: Always 0 (Success)
 */
 
-int main(void)
+int main()
 {
 	printFibonacciNumbers(98);
 
