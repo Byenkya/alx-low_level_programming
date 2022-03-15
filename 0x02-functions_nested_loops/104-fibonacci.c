@@ -11,19 +11,18 @@ void printFibonacciNumbers(int n)
 
 	int next;
 
-	if (n < 1)
-		return;
+	next = f1 + f2;
 
-	printf("%d, ",  f1);
+	printf("%d, ", f1);
+	printf("%d, ", f2);
 
-	for (i = 1; i < n; i++)
+	for (i = 1; i <= n; i++)
 	{
-		printf("%d, ", f2);
-
-		next = f1 + f2;
+		printf("%d, ", next);
 
 		f1 = f2;
 		f2 = next;
+		next = f1 + f2;
 	}
 }
 
