@@ -11,7 +11,7 @@ void printFibonacciNumbers(int n)
 
 	int next;
 
-	if (n > 1)
+	if (n < 1)
 		return;
 
 	printf("%d, ",  f1);
