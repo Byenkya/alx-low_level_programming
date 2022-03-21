@@ -13,7 +13,7 @@ int main ()
 
 	srand((unsigned int)(time(NULL)));
 
-	numbers[] = "0123456789";
+	char numbers[] = "0123456789";
 
 	char letter[] = "abcdefghijklmnoqprstuvwyzx";
 
