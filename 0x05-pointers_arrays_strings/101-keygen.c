@@ -52,4 +52,6 @@ int main ()
 			printf("%c", password[i]);
 		}
 	}
+
+	return (0);
 }
