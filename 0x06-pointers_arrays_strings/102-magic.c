@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+* main - changes value at index 2 to 98.
+* Return: return 0
+*/
 
 int main(void)
 {
