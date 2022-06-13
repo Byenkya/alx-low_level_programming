@@ -63,7 +63,7 @@
 
     
 
-  <meta name="request-id" content="C7A4:3A26:289D0D:526679:62A77AF1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0217e3e3544b3f47f1e35ae466d86b9ee32eafe3cccf79ec663b0bcd03d41b6f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDN0E0OjNBMjY6Mjg5RDBEOjUyNjY3OTo2MkE3N0FGMSIsInZpc2l0b3JfaWQiOiI3NjMyNjI4NzMxNzU0MjgxNzEzIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c906244f668fab3bd8cc078dc599ce08ff94411eb9357ac976a6f420a2830048" data-pjax-transient="true"/>
+  <meta name="request-id" content="D5D4:39A6:2AB4C5:48FABA:62A77C0E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8781d7cb6e5a16d14c41ea123d56f4be7b9b01dc7b41e2bdaec74e27136902cb" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENUQ0OjM5QTY6MkFCNEM1OjQ4RkFCQTo2MkE3N0MwRSIsInZpc2l0b3JfaWQiOiI1NzkwOTc2MDgxMjY2MTc5MDg2IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c86753adf770aae8309a7ab9bfc3ba3fe5ef9b3dc2532f4696542157b36b7822" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:468421117" data-pjax-transient>
 
@@ -431,7 +431,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="86Ac4TbbswPQ+t/TkNOvTPNRq9PhiGnn2duEom/3bzhN9eCgdGC/uT+aYKOcSXCncdXNJ7YLWRChQXwPrH9gTQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="SPKOcfZISLosL8tCeaXN0Hi4OlTnoaGaYxIAv9w6jxjcMekECLoc4buwjTvFZfh1vt+NIsJxjHM1VHuYJKNWwg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1196,7 +1196,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Tolulope05/alx-low_level_programming/delete/master/0x18-dynamic_libraries/libdynamic.so" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="t3A7CtU195cjMVqfB19HKUL2EA7lNmZtUMudCUBHdGKLQYxkQv7ju738CxaGZm3oUAOa2cFUK0UGkyn2ekT2qA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Tolulope05/alx-low_level_programming/delete/master/0x18-dynamic_libraries/libdynamic.so" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="BQ3GHC0QLNS+lYIWJGikNzF2i4wEDGEzXV7jxiPljJZIE7U+7UUbhpMnn07MFtHjPVbtbNYgGTpjuzAJQAf96g==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">

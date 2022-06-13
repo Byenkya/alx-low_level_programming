@@ -57,13 +57,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WsPOGnkWtqT5OK/TKUWJdLBQtCBj+l3ib4PnBOxRA4gOeNmO4qVVjQloNmUTT0l0F2QQHPtCTME7iTKdpk4pHg==" src="https://github.githubassets.com/assets/diffs-5ac3ce1a7916.js"></script>
   
 
-  <title>alx-low_level_programming/main.h at master · Tolulope05/alx-low_level_programming · GitHub</title>
+  <title>alx-low_level_programming/1-create_dynamic_lib.sh at master · Tolulope05/alx-low_level_programming · GitHub</title>
 
 
 
     
 
-  <meta name="request-id" content="D5DA:2E43:2E2406:5AD2AA:62A77C2E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="6094d58e67a21bffb851c3d57386f5b2390b73f18f4126c2fbde8f97f356f64b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENURBOjJFNDM6MkUyNDA2OjVBRDJBQTo2MkE3N0MyRSIsInZpc2l0b3JfaWQiOiI4MDU2MTg1MTM1MDM2ODU3MzkwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="5b6d1e728f5011de35db4dcc0aa4eda3f57fc4360d64b77385bec379407d2a6f" data-pjax-transient="true"/>
+  <meta name="request-id" content="CC62:2519:19AAAF:32D95E:62A77C89" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d6c7d01d3dd1da0b3f3f9dccca314603e54917272a70644cbf22aecf333dc543" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQzYyOjI1MTk6MTlBQUFGOjMyRDk1RTo2MkE3N0M4OSIsInZpc2l0b3JfaWQiOiIyMDE2MDgwODUxODEwODc2NTUzIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="3d7b045801ecb347bcfa2f971827e0f92390de17d5ece5db8ab91f6f79534b8a" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:468421117" data-pjax-transient>
 
@@ -98,8 +98,8 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/677c1dda6fff2ab5967e1d0fd8eb445f705848ae5aca9117b309d6dc7b1dea0c/Tolulope05/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/main.h at master · Tolulope05/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/677c1dda6fff2ab5967e1d0fd8eb445f705848ae5aca9117b309d6dc7b1dea0c/Tolulope05/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/main.h at master · Tolulope05/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Tolulope05/alx-low_level_programming" /><meta property="og:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/677c1dda6fff2ab5967e1d0fd8eb445f705848ae5aca9117b309d6dc7b1dea0c/Tolulope05/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/1-create_dynamic_lib.sh at master · Tolulope05/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/677c1dda6fff2ab5967e1d0fd8eb445f705848ae5aca9117b309d6dc7b1dea0c/Tolulope05/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/1-create_dynamic_lib.sh at master · Tolulope05/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Tolulope05/alx-low_level_programming" /><meta property="og:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
     
@@ -129,7 +129,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -181,7 +181,7 @@
       <div class="d-flex flex-items-center">
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
               class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d2ab582541a7dd893a97c868cc430980f21d06eda43fbd15d784918b090536e6"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b08d0ce1717851ed3d54e000a1b8c6817e7ee2e26a17b093a01c111a43f29e2e"
             >
               Sign&nbsp;up
             </a>
@@ -212,58 +212,58 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Features;&quot;}" href="/features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Features;&quot;}" href="/features">
       Features
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Mobile;&quot;}" href="/mobile">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Mobile;&quot;}" href="/mobile">
       Mobile
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Actions;&quot;}" href="/features/actions">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Actions;&quot;}" href="/features/actions">
       Actions
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       Codespaces
 </a>  </li>
 
             
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Packages;&quot;}" href="/features/packages">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Packages;&quot;}" href="/features/packages">
       Packages
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Security;&quot;}" href="/features/security">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Security;&quot;}" href="/features/security">
       Security
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Code review;&quot;}" href="/features/code-review">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Code review;&quot;}" href="/features/code-review">
       Code review
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Issues;&quot;}" href="/features/issues">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Issues;&quot;}" href="/features/issues">
       Issues
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Integrations;&quot;}" href="/features/integrations">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Integrations;&quot;}" href="/features/integrations">
       Integrations
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       GitHub Sponsors
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Customer stories;&quot;}" href="/customer-stories">
       Customer stories
 </a>  </li>
 
@@ -274,11 +274,11 @@
 
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Team;&quot;}" href="/team">Team</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Team;&quot;}" href="/team">Team</a>
 </li>
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
 </li>
 
 
@@ -291,66 +291,66 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Explore GitHub;&quot;}" href="/explore">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Explore GitHub;&quot;}" href="/explore">
       Explore GitHub
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Topics;&quot;}" href="/topics">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Collections;&quot;}" href="/collections">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Trending;&quot;}" href="/trending">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Skills&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Skills;&quot;}" href="https://skills.github.com/">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Skills&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Skills;&quot;}" href="https://skills.github.com/">
       Skills
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors/explore">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors/explore">
       GitHub Sponsors
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
       Open source guides
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:The ReadME Project;&quot;}" href="/readme">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:The ReadME Project;&quot;}" href="/readme">
       The ReadME Project
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Events;&quot;}" href="/events">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Events;&quot;}" href="/events">
       Events
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Community forum;&quot;}" href="https://github.community">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Community forum;&quot;}" href="https://github.community">
       Community forum
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
       GitHub Education
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
       GitHub Stars program
 </a>  </li>
 
@@ -361,7 +361,7 @@
 
 
             <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
 </li>
 
 
@@ -374,22 +374,22 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Plans;&quot;}" href="/pricing">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Plans;&quot;}" href="/pricing">
       Plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
       Compare plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
       Contact Sales
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h;ref_cta:Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education
 </a>  </li>
 
@@ -431,7 +431,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="BnfCItTHWO9b+bxYUwLl5nyD+z7S5DRLR90jeLJYJGklQ134nakjd2h9b0Y7yuxBKempfjOnae3I/nUVUkePVA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="A/Is2c5lJLP0I6TUGe/Qt3QqjvTAWddCMv1/Qkng3sfqpKtOsoS5wFfMjiWO9N1QztR4IsQD9obFyqOfoUCUYQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -611,9 +611,9 @@
           </div>
 
         <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTolulope05%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2Fmain.h"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTolulope05%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="035a2768bdedeaa8412b4793c095c286c41e6de19b4c5b58fcbece54e5e93ce3"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="89c5189276fdbf49d6643803ceb60035cf6fca42464dbb3efd82369a06eba6d0"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -621,7 +621,7 @@
 
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Tolulope05%2Falx-low_level_programming"
             class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="035a2768bdedeaa8412b4793c095c286c41e6de19b4c5b58fcbece54e5e93ce3"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="89c5189276fdbf49d6643803ceb60035cf6fca42464dbb3efd82369a06eba6d0"
             data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
           >
             Sign up
@@ -713,7 +713,7 @@
     
 
   <li>
-      <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="66874c695a95d7cf1ceabda39caa71af9288f857256dfcbcb4a857de52628ea2" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+      <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8cc1ad4f624d3c005d62708a3e8d4e343a9a9ead6ce9c9be4cd1b66eaccd6511" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
   
@@ -721,7 +721,7 @@
   </li>
 
   <li>
-        <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:468421117,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e7a30fec842eb4dfa324df7e90f1886f0a76fa1556a5657578e7dd0dcf2cfb7f" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:468421117,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1a5ae48caa59455ddc9d6b01940efeb60e5cafccd5a000ba6380d6f82930f71c" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" title="42" data-view-component="true" class="Counter">42</span>
@@ -731,7 +731,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-      <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:468421117,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8716a29caa4c9526a5ab6def169b5b23b6cb32866c0410d2829caaf20f9c5b16" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+      <a href="/login?return_to=%2FTolulope05%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:468421117,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1b54e3e97f4c8c6d9585b955faa651be2142cf36ee35319133eb9a2365eadbd7" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -925,7 +925,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Tolulope05/alx-low_level_programming/blob/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/main.h">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Tolulope05/alx-low_level_programming/blob/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/1-create_dynamic_lib.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1009,7 +1009,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1049,7 +1049,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/main.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1080,7 +1080,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming/tree/master/0x18-dynamic_libraries"><span>0x18-dynamic_libraries</span></a></span><span class="separator">/</span><strong class="final-path">main.h</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming/tree/master/0x18-dynamic_libraries"><span>0x18-dynamic_libraries</span></a></span><span class="separator">/</span><strong class="final-path">1-create_dynamic_lib.sh</strong>
   </h2>
   <a href="/Tolulope05/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
   
@@ -1093,7 +1093,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/main.h&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="835de9126d6a0361b5e0ea5032ae29d31172190733a4d591bddb5d962d631f83" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Tolulope05/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9ac8631b09c540465f3715c204d6d1ba2343b72cf0b8d2dc27b0585b1f1cba4b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Tolulope05/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1106,13 +1106,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x18-dynamic_libraries/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Tolulope05/alx-low_level_programming/blob/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/main.h" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Tolulope05/alx-low_level_programming/blob/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1155,23 +1155,23 @@
             <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Tolulope05/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Tolulope05">Tolulope05</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="Update main.h" class="Link--secondary" href="/Tolulope05/alx-low_level_programming/commit/a76eb9d9245d2e2fb72020d423392a15309fcf03">Update main.h</a>
+                <a data-pjax="true" title="Update 1-create_dynamic_lib.sh" class="Link--secondary" href="/Tolulope05/alx-low_level_programming/commit/1526401058430ffa7c2ffbb744a968fea7ad6f6d">Update 1-create_dynamic_lib.sh</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Tolulope05/alx-low_level_programming/commit/a76eb9d9245d2e2fb72020d423392a15309fcf03/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/Tolulope05/alx-low_level_programming/commit/1526401058430ffa7c2ffbb744a968fea7ad6f6d/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Tolulope05/alx-low_level_programming/commit/a76eb9d9245d2e2fb72020d423392a15309fcf03" data-pjax>a76eb9d</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-06-13T14:50:24Z" class="no-wrap">Jun 13, 2022</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/Tolulope05/alx-low_level_programming/commit/1526401058430ffa7c2ffbb744a968fea7ad6f6d" data-pjax>1526401</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-06-13T14:45:13Z" class="no-wrap">Jun 13, 2022</relative-time></span>
           </span>
 
-          <a data-pjax href="/Tolulope05/alx-low_level_programming/commits/master/0x18-dynamic_libraries/main.h" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/Tolulope05/alx-low_level_programming/commits/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -1197,7 +1197,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/Tolulope05/alx-low_level_programming/contributors-list/master/0x18-dynamic_libraries/main.h" preload>
+        src="/Tolulope05/alx-low_level_programming/contributors-list/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1238,18 +1238,18 @@
 
       <span class="file-mode" title="File mode">executable file</span>
       <span class="file-info-divider"></span>
-      25 lines (23 sloc)
+      3 lines (3 sloc)
       <span class="file-info-divider"></span>
-    693 Bytes
+    58 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Tolulope05/alx-low_level_programming/raw/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/main.h" href="/Tolulope05/alx-low_level_programming/raw/master/0x18-dynamic_libraries/main.h" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/Tolulope05/alx-low_level_programming/raw/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/1-create_dynamic_lib.sh" href="/Tolulope05/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/Tolulope05/alx-low_level_programming/blame/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/main.h" href="/Tolulope05/alx-low_level_programming/blame/master/0x18-dynamic_libraries/main.h" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/Tolulope05/alx-low_level_programming/blame/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/1-create_dynamic_lib.sh" href="/Tolulope05/alx-low_level_programming/blame/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -1304,14 +1304,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/raw/master/0x18-dynamic_libraries/main.h">
+            <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/blame/master/0x18-dynamic_libraries/main.h">
+              <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/blame/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">
                 View blame
               </a>
             </li>
@@ -1323,7 +1323,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -1352,108 +1352,18 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x18-dynamic_libraries/main.h">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Shell" data-tagsearch-path="0x18-dynamic_libraries/1-create_dynamic_lib.sh">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">ifndef</span> _MAIN_H_</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#!</span>/bin/bash</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">_MAIN_H_</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">gcc -fPIC -c <span class="pl-k">*</span>.c</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_putchar</span>(<span class="pl-k">char</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_islower</span>(<span class="pl-k">int</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_isalpha</span>(<span class="pl-k">int</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_abs</span>(<span class="pl-k">int</span> n);</td>
-        </tr>
-        <tr>
-          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_isupper</span>(<span class="pl-k">int</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_isdigit</span>(<span class="pl-k">int</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_strlen</span>(<span class="pl-k">char</span> *s);</td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">_puts</span>(<span class="pl-k">char</span> *s);</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strcpy</span>(<span class="pl-k">char</span> *dest, <span class="pl-k">char</span> *src);</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_atoi</span>(<span class="pl-k">char</span> *s);</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strcat</span>(<span class="pl-k">char</span> *dest, <span class="pl-k">char</span> *src);</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strncat</span>(<span class="pl-k">char</span> *dest, <span class="pl-k">char</span> *src, <span class="pl-k">int</span> n);</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strncpy</span>(<span class="pl-k">char</span> *dest, <span class="pl-k">char</span> *src, <span class="pl-k">int</span> n);</td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_strcmp</span>(<span class="pl-k">char</span> *s1, <span class="pl-k">char</span> *s2);</td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_memset</span>(<span class="pl-k">char</span> *s, <span class="pl-k">char</span> b, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n);</td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_memcpy</span>(<span class="pl-k">char</span> *dest, <span class="pl-k">char</span> *src, <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n);</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strchr</span>(<span class="pl-k">char</span> *s, <span class="pl-k">char</span> c);</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-k">unsigned</span> <span class="pl-k">int</span> <span class="pl-en">_strspn</span>(<span class="pl-k">char</span> *s, <span class="pl-k">char</span> *accept);</td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strpbrk</span>(<span class="pl-k">char</span> *s, <span class="pl-k">char</span> *accept);</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">_strstr</span>(<span class="pl-k">char</span> *haystack, <span class="pl-k">char</span> *needle);</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">endif</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">gcc -shared -o liball.so <span class="pl-k">*</span>.o</td>
         </tr>
   </table>
 </div>
@@ -1479,7 +1389,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Tolulope05/alx-low_level_programming/blame/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/main.h">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Tolulope05/alx-low_level_programming/blame/af61bbd4b13fd14800a269c8e31ffe62ec8c6186/0x18-dynamic_libraries/1-create_dynamic_lib.sh">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Tolulope05/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
